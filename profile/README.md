@@ -1,8 +1,16 @@
 ## Hi there 👋
 
 ## This organisation hosts some of my projects regarding web dev and general javascript things.
-<!--
 
+<hr width="36%" >
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+- things
+- more things
+- some more things
+
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
