@@ -1,4 +1,5 @@
-<img align="center" src="https://raw.githubusercontent.com/Helix-Labs/.github/main/assets/wavetop.svg" >
+<!--<img align="center" src="https://raw.githubusercontent.com/Helix-Labs/.github/main/assets/wavetop.svg" >-->
+<img align="center" src="https://raw.githubusercontent.com/Helix-Labs/.github/main/assets/starstop.svg" >
 
 <br>
 
