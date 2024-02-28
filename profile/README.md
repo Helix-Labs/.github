@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## This organisation hosts some of my projects regarding web dev and general javascript things.
 <!--
 
 **Here are some ideas to get you started:**
